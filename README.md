@@ -43,3 +43,7 @@ The Intersection API is employed to trigger animations and actions as elements c
 ## Transition Effects
 
 During scrolling interactions, the Bankist website employs transition effects to enhance the visual appeal. These transition effects provide smooth animations, creating a more engaging and polished user experience.
+
+## Testimonial section
+
+The Bankist website features a Testimonial Section that showcases feedback and reviews from satisfied customers. This section adds credibility to your banking services and helps build trust with potential clients.
