@@ -26,6 +26,7 @@ The Bankist website is designed to offer users an engaging and seamless experien
 - Event delegation for efficient management of dynamic content.
 - Intersection API for triggering animations and actions when elements come into view.
 - Transition effects to enhance the visual appeal during scrolling.
+- Testimonial Section is included where we can see different peoples testimonials
 
 ## Smooth Scrolling
 
